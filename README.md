@@ -14,7 +14,6 @@ These objects implement the comparable interface in order to be ranked by my alg
 * polyfor1 - 20,237 polygons.
 * polyfor2 - 472,956 polygons.
 * polyfor3 - 1,078,499 polygons.
-* polyfor5 - 8,388,608 polygons.
 * Files are only inside the jar**
 
 ### Algorithms 
